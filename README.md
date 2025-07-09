@@ -40,14 +40,7 @@ Git installed (optional) 🧰
 
 <h3>💻 Run Locally</h3>
 
-1. Clone the repo:
-
-bash
-
-Copy
-Edit
-git clone https://github.com/codewithsadee/anon-ecommerce-website.git
-cd anon-ecommerce-website
+1. Clone the repo
 
 2. Open index.html in any browser 🔍
 Or run via Live Server if using VS Code 🖱️🧠
