@@ -2,8 +2,7 @@
 
 A sleek, modern, and fully responsive eCommerce website built with HTML 🧱, CSS 🎨, and JavaScript ⚙️. Ideal for showcasing a wide variety of products in a clean, user-friendly interface across all devices 📱💻🖥️.
 
-🔗 Live Demo: 👀 View Here
-
+🔗 Live Demo: 👀 [Click here]([https://example.com](https://debasish-1969.github.io/anon-e-commerce-project/)
 
 Screenshots: 
 
